@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  aidacademy_chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-04-02T00:21:11.768806162Z"
+    description: A Helm chart for Kubernetes
+    digest: 52536f5824e175861de7da1906d49340e850cba9c71fc48afe89a422bc8dda3f
+    name: aidacademy_chart
+    type: application
+    urls:
+    - https://github.com/seyantesTech/aidachart-k8s.git/aidacademy_chart/aidacademy_chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-04-02T00:21:11.766527244Z"
